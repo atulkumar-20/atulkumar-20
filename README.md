@@ -8,9 +8,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar-20&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar-20" /> </p>
 
-🔭 Right now learning about Full stack development & DevOps
-👨‍💻 All of my projects are available at https://github.com/atulkumar-20
-📫 How to reach me atulkumar24332@gmail.com
+🔭 Right now learning about Full stack development & DevOps <br/> 
+👨‍💻 All of my projects are available at https://github.com/atulkumar-20 <br/>
+📫 How to reach me atulkumar24332@gmail.com <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
