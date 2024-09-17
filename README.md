@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Atul Kumar</h1>
+<h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">Just a developer</h3>
 <p align="center">
   <img src="./take-a-look-at-my-projs.gif" alt="Take a look at my projects" width="400"/>
