@@ -2,20 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Atul KUmar</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
+<p align="center">
+  <img src="/home/atulkumar/Downloads/Baka-Animation.gif" alt="Take a look at my projects" width="400"/>
+  <img src="/home/atulkumar/Downloads/goku-ultra-instinct.gif" alt="Goku Ultra Instinct" width="400"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar-20&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar-20" /> </p>
 
-- 🔭 I’m currently working on **React proj**
-
-- 🌱 I’m currently learning **React,Typescript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/atulkumar-20](https://github.com/atulkumar-20)
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **atulkumar24332@gmail.com**
+🔭 I'm currently working on React proj
+🌱 I'm currently learning React,Typescript
+👨‍💻 All of my projects are available at https://github.com/atulkumar-20
+💬 Ask me about Javascript
+📫 How to reach me atulkumar24332@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
