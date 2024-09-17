@@ -1,17 +1,15 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Atul KUmar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Atul Kumar</h1>
+<h3 align="center">Just a developer</h3>
 <p align="center">
-  <img src="/home/atulkumar/Downloads/Baka-Animation.gif" alt="Take a look at my projects" width="400"/>
+  <img src="/home/atulkumar/Downloads/take-a-look-at-my-projs.gif" alt="Take a look at my projects" width="400"/>
   <img src="/home/atulkumar/Downloads/goku-ultra-instinct.gif" alt="Goku Ultra Instinct" width="400"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar-20&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar-20" /> </p>
 
-🔭 I'm currently working on React proj
-🌱 I'm currently learning React,Typescript
+🔭 Right now learning about Full stack development & DevOps
 👨‍💻 All of my projects are available at https://github.com/atulkumar-20
-💬 Ask me about Javascript
 📫 How to reach me atulkumar24332@gmail.com
 
 <h3 align="left">Connect with me:</h3>
