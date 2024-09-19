@@ -4,7 +4,7 @@
 <h3 align="center">Just a developer</h3>
 <p align="center">
   <img src="./take-a-look-at-my-projs.gif" alt="Take a look at my projects" width="400"/>
-  <img src="./Goku-g.gif" alt="Goku Ultra Instinct" width="400"/>
+  
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar-20&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar-20" /> </p>
 
