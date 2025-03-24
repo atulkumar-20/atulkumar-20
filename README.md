@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 New to Code, Obsessed with Growth<br>Currently soaking up JavaScript/Typescript like a sponge 🧽.<br> Building my toolkit one project at a time. <br>Always down to collab, learn, or geek about anything<br>
+🌱 I like to learn everything little by little, atleast thats the hope I have
+🧽 Dont find,be found
 
 
 # 📊 GitHub Stats:
